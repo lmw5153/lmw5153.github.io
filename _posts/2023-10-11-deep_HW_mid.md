@@ -302,7 +302,8 @@ plot_history(history)
 
 
     
-![png](output_23_0.png)
+![output_23_0](https://github.com/lmw5153/lmw5153.github.io/assets/154956154/d96f10e3-957a-4e49-8747-4c4ded3c13c7)
+
     
 
 

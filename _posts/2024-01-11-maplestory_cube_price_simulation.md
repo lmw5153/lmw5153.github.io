@@ -151,9 +151,9 @@ plt.hist(df_price);
 ```
 
 
+
     
-![png](output_8_0.png)
-    
+![output_8_0](https://github.com/lmw5153/lmw5153.github.io/assets/154956154/964f163f-8eae-463a-81d6-66805446808c)
 
 
 - 무통 가격이 5000원이 되어야 기존 블랙큐브 2200원일 때 레전등급업에 필요한 현금이 든다.

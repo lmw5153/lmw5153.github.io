@@ -47,8 +47,8 @@ plt.plot(X)
 
 
     
-![png](output_5_1.png)
-    
+![output_5_1](https://github.com/lmw5153/lmw5153.github.io/assets/154956154/7dd0d0ac-6aae-47f4-b182-5d3d88607747)
+
 
 
 `-` input data 
@@ -284,9 +284,8 @@ plt.plot(pred.flatten())
 
 
 
-    
-![png](output_22_1.png)
-    
+
+![output_22_1](https://github.com/lmw5153/lmw5153.github.io/assets/154956154/8d177176-aa0f-4fe0-9e1c-f663d51c5b34)
 
 
 ---
@@ -478,9 +477,9 @@ plt.plot(pred.flatten())
 
 
 
+![output_35_1](https://github.com/lmw5153/lmw5153.github.io/assets/154956154/0a108140-6df3-4b58-949d-c25f9156dbeb)
 
-    
-![png](output_35_1.png)
+
     
 
 

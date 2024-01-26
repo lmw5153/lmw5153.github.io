@@ -471,9 +471,8 @@ plt.show()
 ```
 
 
-    
-![png](output_41_0.png)
-    
+![output_41_0](https://github.com/lmw5153/lmw5153.github.io/assets/154956154/251bec6f-c181-47f3-a1e3-5a0821d373ff)
+
 
 
 `-` 평가지표

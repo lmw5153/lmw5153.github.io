@@ -606,8 +606,9 @@ plt.plot(y_train)
 
 
 
-    
-![png](output_26_1.png)
+  ![output_26_1](https://github.com/lmw5153/lmw5153.github.io/assets/154956154/fb9a1efb-d370-4cf8-b58b-797c977427c4)
+
+
     
 
 
@@ -759,8 +760,8 @@ plt.show()
 
 
     
-![png](output_42_0.png)
-    
+![output_42_0](https://github.com/lmw5153/lmw5153.github.io/assets/154956154/df71bb41-01c4-4f74-aa64-e07faed17b29)
+
 
 
 `-` **MSE**

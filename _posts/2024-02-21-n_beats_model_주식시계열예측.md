@@ -211,11 +211,14 @@ y_test_scale= norm.fit_transform(y_test.reshape(-1, 1) )
 - 파라미터 셋팅 : loss의 변화가 안정적으로 감소하는 기준으로 셋팅
 
 `-` model
-![image-5.png](attachment:image-5.png)
+![image](https://github.com/lmw5153/lmw5153.github.io/assets/154956154/f2dcf494-94ad-4421-88a2-c4631704f632)
+
 
 `-` source code
-![image-3.png](attachment:image-3.png)
-![image-4.png](attachment:image-4.png)
+![image](https://github.com/lmw5153/lmw5153.github.io/assets/154956154/737ef2aa-315f-4906-abf1-dd136de0553b)
+
+![image](https://github.com/lmw5153/lmw5153.github.io/assets/154956154/806efe23-45b5-4f1f-a921-903f4ae72fc1)
+
 
 
 ```python
@@ -594,9 +597,10 @@ plt.legend()
 plt.show()
 ```
 
+![output_17_0](https://github.com/lmw5153/lmw5153.github.io/assets/154956154/61aad840-86e1-4487-a553-c130a49cf000)
 
     
-![png](output_17_0.png)
+
     
 
 
@@ -636,7 +640,8 @@ plt.show()
 ```
 
 
-    
-![png](output_22_0.png)
+![output_22_0](https://github.com/lmw5153/lmw5153.github.io/assets/154956154/930b03bc-bd21-4e74-8267-0c704ed4d75c)
+
+
     
 
